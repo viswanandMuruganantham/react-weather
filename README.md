@@ -57,6 +57,10 @@ Deploy the app:
 npm run deploy
 Your app will be live at: https://yourusername.github.io/weather-app/
 
+screenshot:
+![Screenshot 2025-01-29 182420](https://github.com/user-attachments/assets/89f630a5-fabc-4311-8625-b063cb8ec6e5)
+
+
 Contributing
 Fork the repository.
 Create your feature branch (git checkout -b feature-name).
